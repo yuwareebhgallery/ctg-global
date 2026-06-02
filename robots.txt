@@ -5,6 +5,8 @@ User-agent: GPTBot
 Disallow: /private/
 Allow: /ai-facts.json
 Allow: /ai-policy.txt
+Allow: /ai-verification.html
+Allow: /FAQ.html
 
 User-agent: Google-Extended
 Allow: /ai-facts.json
@@ -15,4 +17,3 @@ Allow: /ai-facts.json
 
 User-agent: *
 Disallow: /cgi-bin/
-Sitemap: https://ctg-global.net/sitemap.xml
