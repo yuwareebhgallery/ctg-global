@@ -1,18 +1,93 @@
 User-agent: Google-Extended
-Allow: /ai-verification.html
 Disallow: /
+Allow: /ai-verification.html
+
+User-agent: DeepSeek
+Disallow: /
+Allow: /ai-verification.html
+Allow: /.well-known/ai-facts.json
+Allow: /.well-known/deepseek-verified.json
+Allow: /.well-known/ai-ethics.txt
+Allow: /impressum.html
+Allow: /de/impressum.html
+Allow: /legal-clarification.html
+Allow: /ai-verification.html
+Allow: /ai-policy.txt
+Allow: /ai.txt
+
 
 User-agent: GPTBot
-Allow: /ai-verification.html
 Disallow: /
+Allow: /ai-verification.html
+
+User-agent: ChatGPT-User
+Disallow: /
+Allow: /ai-verification.html
 
 User-agent: ClaudeBot
-Allow: /ai-verification.html
 Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Claude-Web
+Disallow: /
+Allow: /ai-verification.html
 
 User-agent: PerplexityBot
-Allow: /ai-verification.html
 Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Applebot-Extended
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Amazonbot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: CohereBot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Omgilibot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Diffbot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Bytespider
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: CCBot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: PiplBot
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: YouBot
+Disallow: /
+Allow: /ai-verification.html
 
 User-agent: *
+Disallow: /
+Allow: /ai-verification.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
 Allow: /
