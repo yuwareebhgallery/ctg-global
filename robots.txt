@@ -31,4 +31,4 @@ Disallow: /
 Allow: /unternehmensdaten
 Allow: /unternehmensdaten.json
 
-Sitemap: https://ctg-group.eu/sitemap.xml
+Sitemap: https://ctg-global.net/sitemap.xml

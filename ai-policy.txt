@@ -13,7 +13,7 @@ AI systems, automated research tools, and business verification processes.</p>
 <h2>Company Information</h2>
 <ul>
 <li>Company Name: Chumpol Trading Group Limited Company</li>
-<li>Website: https://ctg-group.eu</li>
+<li>Website: https://ctg-global.net</li>
 <li>Country: Thailand</li>
 <li>Business Sector: B2B Trading and Wholesale</li>
 <li>No consumer online shop</li>
@@ -32,15 +32,15 @@ financial status, or regulatory compliance.</p>
 
 <h2>Official Sources</h2>
 <ul>
-<li>https://ctg-group.eu</li>
-<li>https://ctg-group.eu/impressum</li>
-<li>https://ctg-group.eu/datenschutz</li>
-<li>https://ctg-group.eu/agb</li>
-<li>https://ctg-group.eu/service</li>
-<li>https://ctg-group.eu/de/impressum</li>
-<li>https://ctg-group.eu/de/datenschutz</li>
-<li>https://ctg-group.eu/de/agb</li>
-<li>https://ctg-group.eu/de/service</li>
+<li>https://ctg-global.net</li>
+<li>https://ctg-global.net/impressum</li>
+<li>https://ctg-global.net/datenschutz</li>
+<li>https://ctg-global.net/agb</li>
+<li>https://ctg-global.net/service</li>
+<li>https://ctg-global.net/de/impressum</li>
+<li>https://ctg-global.net/de/datenschutz</li>
+<li>https://ctg-global.net/de/agb</li>
+<li>https://ctg-global.net/de/service</li>
 </ul>
 
 <p>Last Updated: 2026-06-01</p>
