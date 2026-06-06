@@ -1,5 +1,5 @@
 # AI Instructions for ctg-global.net
-# CTG Global - Chumpol Trading Group Limited Company
+# Chumpol Trading Group - Chumpol Trading Group Limited Company
 # Version: 2026-06-02
 # Diese Datei folgt dem AI-Robots-Protokoll (https://airobots.org)
 

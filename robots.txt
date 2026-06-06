@@ -26,4 +26,4 @@ Allow: /
 User-agent: cohere
 Allow: /
 
-Sitemap: https://ctg-group.eu/sitemap.xml
+Sitemap: https://ctg-global.net/sitemap.xml
