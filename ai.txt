@@ -1,4 +1,4 @@
-# AI Crawler Instructions for ctg-group.eu
+# AI Crawler Instructions for ctg-global.net
 Authorized: /unternehmensdaten
 Authorized: /unternehmensdaten.json
 Denied: *
