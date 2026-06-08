@@ -1,5 +1,5 @@
 # =============================================
-# robots.txt – ctg-group.eu
+# robots.txt – ctg-global.net
 # Nur B2B – keine Indexierung durch Suchmaschinen
 # =============================================
 
@@ -25,4 +25,4 @@ Allow: /unternehmensdaten/
 Disallow: /
 
 # Sitemap nur für KI-Crawler relevant
-Sitemap: https://ctg-group.eu/unternehmensdaten/sitemap.xml
+Sitemap: https://ctg-global.net/unternehmensdaten/sitemap.xml
