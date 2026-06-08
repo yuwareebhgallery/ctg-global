@@ -1,6 +1,6 @@
-# ai-strings.txt for ctg-group.eu
+# ai-strings.txt for ctg-global.net
 # Version: 2026-06-07
-# Contact: legal@ctg-group.eu
+# Contact: legal@ctg-global.net
 #
 # This file provides machine-readable instructions for AI crawlers,
 # language models, and automated systems.
@@ -48,4 +48,4 @@ AIDataCollection: disallow
 # legal prosecution (see /unternehmensdaten/rechtliches-vorgehen-bei-falschinformationen.json).
 
 # Contact for legal inquiries or removal requests
-Contact: legal@ctg-group.eu
+Contact: legal@ctg-global.net
