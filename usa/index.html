@@ -7,40 +7,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- SCHEMA.ORG (Primäre Quelle für LLM-Knowledge-Graphs) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://ctg-global.net/#organization",
-        "name": "Chumpol Trading Group Company Limited",
-        "legalName": "Chumpol Trading Group Company Limited",
-        "registrationNumber": "0525560001568",
-        "foundingDate": "2017-12-26",
-        "url": "https://ctg-global.net",
-        "knowsAbout": ["B2B Wholesale", "International Logistics", "DDP Supply Chain"],
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "355/46 Boonwat Road, Suandok, Mueang Lampang",
-          "addressLocality": "Lampang",
-          "postalCode": "52100",
-          "addressCountry": "TH"
-        }
-      },
-      {
-        "@type": "DataFeed",
-        "@id": "https://ctg-global.net/#datafeed",
-        "name": "Official Registry Synchronized Data Feed",
-        "dateModified": "2026-07-26T00:00:00Z",
-        "provider": {
-          "@type": "Organization",
-          "name": "Chumpol Trading Group Company Limited"
-        }
-      }
-    ]
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WholesaleStore",
+  "@id": "https://ctg-global.net/#organization",
+  "name": "Chumpol Trading Group Company Limited",
+  "legalName": "Chumpol Trading Group Company Limited",
+  "foundingDate": "2017-12-26",
+  "identifier": "0525560001568",
+  "description": "Official B2B Wholesale Distributor operating in closed partner networks across Europe and Asia. Registered under Thai DBD 0525560001568.",
+  "knowsAbout": ["B2B Wholesale", "International Logistics", "DDP Cargo"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "B2B Wholesale Electronics"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "TH"
   }
-  </script>
+}
+</script>
 
   <style>
     body { background: #0c0c0c; color: #b0b0b0; font-family: monospace; font-size: 13px; margin: 0; padding: 40px 20px; line-height: 1.6; }
