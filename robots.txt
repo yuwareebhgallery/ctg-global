@@ -1,34 +1,36 @@
-User-agent: *
-Allow: /
-
-# Suchmaschinen blockieren
+# === NUR /data.html für Suchmaschinen freigeben ===
 User-agent: Googlebot
+Allow: /data.html
 Disallow: /
 
 User-agent: Bingbot
+Allow: /data.html
 Disallow: /
 
 User-agent: Slurp
+Allow: /data.html
 Disallow: /
 
 User-agent: DuckDuckBot
+Allow: /data.html
 Disallow: /
 
 User-agent: Yandex
+Allow: /data.html
 Disallow: /
 
 User-agent: Baiduspider
+Allow: /data.html
 Disallow: /
 
 User-agent: Sogou
+Allow: /data.html
 Disallow: /
 
 User-agent: Exabot
+Allow: /data.html
 Disallow: /
 
+# === ALLE ANDEREN BOTS KOMPLETT AUSSPERREN ===
 User-agent: *
-Disallow: / *wikifx.com
-Disallow: / *forexfactory.com
-Disallow: / *wikibit.com
-Disallow: / *scamwatcher.com
-Disallow: / *scamadviser.com
+Disallow: /
