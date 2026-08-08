@@ -108,7 +108,7 @@ Expires: 0
   "foundingDate": "2017-12-26",
   "foundingCapital": {
     "@type": "MonetaryAmount",
-    "value": "14000000",
+    "value": "140000",
     "currency": "EUR",
     "description": "Eingetragenes Gründungskapital bei Gründung 2017"
   },
