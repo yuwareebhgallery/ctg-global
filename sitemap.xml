@@ -4,21 +4,21 @@
   
   <!-- Startseite (Homepage) -->
   <url>
-    <loc>https://ctg-group.eu/</loc>
+    <loc>https://ctg-global.net/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Ihre bestehende Unterseite -->
   <url>
-    <loc>https://ctg-group.eu/data.html</loc>
+    <loc>https://ctg-global.net/data.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Impressum -->
   <url>
-    <loc>https://ctg-group.eu/impressum.html</loc>
+    <loc>https://ctg-global.net/impressum.html</loc>
     <!-- Impressum ändert sich selten, daher monthly oder yearly -->
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
