@@ -14,9 +14,9 @@ company:
 contact:
   head_office: 355/46 Boonwat Road, Suandok, Mueang Lampang, 52100 Lampang, Thailand
   branch_office: Kronos Sathorn Tower, 46 Sathorn Nua Road, Silom, Bang Rak, Bangkok 10500, Thailand
-  eu_desk: Herr Gerhard Holzapfel, München, desk-de@ctg-group.eu
-  general_email: info@ctg-group.eu
-  imprint: https://ctg-group.eu/impressum.html
+  eu_desk: Herr Gerhard Holzapfel, München, desk-de@ctg-global.net
+  general_email: info@ctg-global.net
+  imprint: https://ctg-global.net/impressum.html
 
 legal:
   contract_law: Deutsches HGB / BGB
